@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Cute animal avatar">
+  <rect width="160" height="160" rx="80" fill="#eaf1f4"/>
+  <path d="M39 63 28 31c-2-7 6-12 12-8l25 15c10-4 20-4 30 0l25-15c6-4 14 1 12 8l-11 32c8 10 12 22 12 35 0 28-21 46-53 46s-53-18-53-46c0-13 4-25 12-35Z" fill="#c98b63"/>
+  <ellipse cx="61" cy="91" rx="8" ry="11" fill="#351519"/>
+  <ellipse cx="99" cy="91" rx="8" ry="11" fill="#351519"/>
+  <circle cx="64" cy="87" r="3" fill="#fff"/><circle cx="102" cy="87" r="3" fill="#fff"/>
+  <path d="M72 111c5-5 11-5 16 0" fill="none" stroke="#351519" stroke-width="5" stroke-linecap="round"/>
+  <path d="M80 103c-5 0-8-3-8-6 0-5 16-5 16 0 0 3-3 6-8 6Z" fill="#7b2028"/>
+  <path d="M39 110H20M39 119H19M121 110h19M121 119h20" stroke="#351519" stroke-width="3" stroke-linecap="round"/>
+</svg>
